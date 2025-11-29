@@ -1,23 +1,18 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/dfQ4Z2v.gif" width="900"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Abhishek Dhikale</h1>
-<h3 align="center">DevOps Engineer | Cloud (AWS & Azure) | Kubernetes | Docker | CI/CD | Monitoring</h3>
+<h3 align="center">DevOps Engineer | AWS | Azure | Kubernetes | Docker | CI/CD | Monitoring</h3>
 
 ---
 
 ## 🚀 About Me
 
 I am a **DevOps Engineer** with hands-on experience in:  
-✔ AWS & Azure Cloud  
-✔ Kubernetes & Docker  
-✔ CI/CD Pipelines  
-✔ Linux Administration  
-✔ Monitoring using **Prometheus & Grafana**  
-✔ Infrastructure Automation  
-✔ Debugging, logs, and troubleshooting  
+- AWS & Azure Cloud  
+- Kubernetes & Docker  
+- CI/CD Pipelines  
+- Linux Administration  
+- Monitoring using **Prometheus & Grafana**  
+- Infrastructure Automation  
+- Application troubleshooting and performance optimization  
 
 I enjoy building scalable, automated, and resilient cloud-native systems.
 
@@ -39,27 +34,20 @@ I enjoy building scalable, automated, and resilient cloud-native systems.
 
 ### 🔧 DevOps & CI/CD Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
 </p>
 
 ### 📊 Monitoring & Logging
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="60"/>
 </p>
 
 ### 💻 Operating Systems
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70"/>
-</p>
-
----
-
-## 🏗️ DevOps Pipeline Workflow (GIF)
-<p align="center">
-  <img src="https://i.imgur.com/6u1GZcB.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
 </p>
 
 ---
@@ -88,15 +76,5 @@ I enjoy building scalable, automated, and resilient cloud-native systems.
 
 ---
 
-## ✨ Fun DevOps GIF  
-<p align="center">
-  <img src="https://i.imgur.com/0h1Y9bH.gif" width="400">
-</p>
-
----
-
-## 🧡 Thanks for visiting!
-<p align="center">
-  <img src="https://i.imgur.com/qZ0YdCK.gif" width="300"/>
-</p>
+## 🧡 Thanks for visiting my profile!
 
